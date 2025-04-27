@@ -42,3 +42,6 @@ X：作为一个创新符号，代表未知、交叉、科技与变革。既可�
 ![](https://openi.pcl.ac.cn/STRUGGLE/mindspore_2.3/raw/branch/master/5.jpg)
 #### 智慧教学PPT
 ![](https://openi.pcl.ac.cn/STRUGGLE/mindspore_2.3/raw/branch/master/6.jpg)
+
+### StreamlitCloud应用地址
+https://edux-teaching-assistant-jqjhh2ksglgscb6ztuqpx2.streamlit.app/
