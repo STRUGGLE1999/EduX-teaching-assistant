@@ -6,6 +6,10 @@ from streamlit_option_menu import option_menu
 from class_assistant.chat_question import dialogue, question
 from class_assistant.courseware import outlineGenerate, pptGenerate
 
+import sys
+import pysqlite3
+sys.modules["sqlite3"] = pysqlite3
+
 # 设置页面基本配置
 st.set_page_config(
     page_title="EduX 多功能智课伴侣",
