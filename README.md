@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/3b49f52b-b976-4c64-9c6b-026ef32d7e2a)# EduX 多功能智课伴侣
+# EduX 多功能智课伴侣
+![image](https://github.com/user-attachments/assets/3b49f52b-b976-4c64-9c6b-026ef32d7e2a)
 
 ### 运行应用
 
