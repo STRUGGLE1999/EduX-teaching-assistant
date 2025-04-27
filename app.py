@@ -1,14 +1,17 @@
 import os
+import sys
+try:
+    import pysqlite3
+    sys.modules['sqlite3'] = pysqlite3
+except ImportError:
+    pass
+    
 import streamlit as st
 from streamlit_option_menu import option_menu
 
 # 导入各个模块
 from class_assistant.chat_question import dialogue, question
 from class_assistant.courseware import outlineGenerate, pptGenerate
-
-import sys
-import pysqlite3
-sys.modules["sqlite3"] = pysqlite3
 
 # 设置页面基本配置
 st.set_page_config(
