@@ -1,0 +1,7 @@
+[server]
+port = 6688
+fileWatcherType = "none"
+enableXsrfProtection = false
+enableCORS = false
+
+
