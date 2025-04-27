@@ -1,5 +1,5 @@
 # EduX 多功能智课伴侣
-![image](https://github.com/user-attachments/assets/3b49f52b-b976-4c64-9c6b-026ef32d7e2a)
+![image](https://openi.pcl.ac.cn/STRUGGLE/mindspore_2.3/raw/branch/master/7.jpg)
 
 ### 运行应用
 
