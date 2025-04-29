@@ -12,7 +12,7 @@ langchain-community==0.3.21
 nipype==1.10.0
 openai==1.74.0
 pdf2image==1.17.0
-pdfminer.six==20250327
+pdfminer.six==20201018
 pi-heif==0.22.0
 pip-chill==1.0.3
 platformdirs==4.2.2
